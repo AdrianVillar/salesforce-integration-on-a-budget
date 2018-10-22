@@ -1,5 +1,5 @@
 /**
-* @author Matt Kaufman
+* @author Adrian Villar
 * @name PaymentResource
 * @description Represents a Payment object in an external system
 **/

@@ -1,5 +1,5 @@
 /**
-* @author Matt Kaufman
+* @author Adrian Villar
 * @name Util
 * @description Helper methods to convert XML Strings to/from Maps
 **/

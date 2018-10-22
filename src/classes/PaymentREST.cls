@@ -1,5 +1,5 @@
 /**
-* @author Matt Kaufman
+* @author Adrian Villar
 * @name PaymentREST
 * @description Webservice class to receive incoming data.
 */

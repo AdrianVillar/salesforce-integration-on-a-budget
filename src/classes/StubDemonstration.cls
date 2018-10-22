@@ -1,5 +1,5 @@
 /**
-* @author Matt Kaufman
+* @author Adrian Villar
 * @name StubDemonstration
 * @description Demonstration of using a stub created by Wsdl-to-Apex
 **/

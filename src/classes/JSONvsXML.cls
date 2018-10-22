@@ -1,5 +1,5 @@
 /**
-* @author Matt Kaufman
+* @author Adrian Villar
 * @name JSONvsXML
 * @description Demonstrates working with JSON and XML representations of objects
 **/
